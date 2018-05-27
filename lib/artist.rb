@@ -5,4 +5,7 @@ class Artist
     @song = song
     songs << song
     songs = []
+  end
+
+  
 end

@@ -5,4 +5,6 @@ class Song
     @name = name
     # self.artist.name = @song
   end
+
+  
 end

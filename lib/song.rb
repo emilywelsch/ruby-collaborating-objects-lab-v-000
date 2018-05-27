@@ -3,7 +3,10 @@ class Song
 
   def initialize(name)
     @name = name
-    # self.artist.name = @song
+  end
+
+  def self.new_by_filename(filename)
+    
   end
 
   
